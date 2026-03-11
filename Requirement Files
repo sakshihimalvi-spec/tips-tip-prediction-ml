@@ -1,0 +1,34 @@
+Library	Purpose
+Streamlit :	Build web UI for ML app
+NumPy (numpy): Numerical operations and arrays
+Pandas (pandas) :	Data manipulation and DataFrame handling
+Seaborn (seaborn) :	Data visualization
+Matplotlib (matplotlib) :	Plotting graphs
+Pickle (pickle)	Save/load trained model
+Scikit-learn (sklearn)	Machine learning (model training, preprocessing, evaluation)
+
+Scikit-learn Modules Used :
+
+train_test_split
+
+OneHotEncoder
+
+StandardScaler
+
+ColumnTransformer
+
+Pipeline
+
+LinearRegression
+
+r2_score
+
+mean_squared_error
+
+tips-prediction-streamlit-app/
+│
+├── eda.ipynb
+├── app.py
+├── tips_model.pkl
+├── requirements.txt
+└── README.md
